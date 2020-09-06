@@ -18,8 +18,6 @@ body {
 
 	font-family: 'Fjalla One', sans-serif;
 	font-size: 50px;
-
-
 }
 
 .menu a {
@@ -33,10 +31,8 @@ body {
 	text-decoration: underline;
 }
 
-
 .card {
-	width: 400px;
-	height: 250px;
+	width: 500px;
 
 	background-color: #EEDCD1;
 	margin: 3%;
@@ -45,7 +41,7 @@ body {
 }
 
 .card img {
-	width: 200px;
+	width: 100%;
 }
 
 .card:hover{
