@@ -1,0 +1,55 @@
+body {
+	margin: 0px;
+	padding: 0px;
+
+	font-family: 'Work Sans', sans-serif;
+
+}
+
+.menu {
+	width: 100%;
+	background-color: rgb(107, 191, 176);
+
+	text-align: center;
+	text-decoration: none;
+	padding: 2% 0%;
+
+	display: flex;
+
+	font-family: 'Fjalla One', sans-serif;
+	font-size: 50px;
+
+
+}
+
+.menu a {
+	padding: 0% 2%;
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.menu a:hover {
+	background-color: black;
+	text-decoration: underline;
+}
+
+
+.card {
+	width: 400px;
+	height: 250px;
+
+	background-color: #EEDCD1;
+	margin: 3%;
+
+	text-align: center;
+}
+
+.card img {
+	width: 200px;
+}
+
+.card:hover{
+	box-shadow: 8px 8px rgba(0,0,0,1);
+}
+
+
